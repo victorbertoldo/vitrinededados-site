@@ -70,6 +70,8 @@ The form validates input, has a hidden honeypot field against spam bots, and sho
 
 **Today it opens the visitor's email app** with a message to `contato@vitrinededados.com` already filled in. That works everywhere but depends on the visitor having an email app.
 
+`contato@vitrinededados.com` must exist at GoDaddy (a mailbox, or an alias/forward to your own inbox). If you move the website to GitHub Pages, change only the `A` and `www` records: leave the `MX` and email-related `TXT` records as they are, or email stops working.
+
 To deliver messages directly from the page, connect a form service (Formspree, Getform, Basin and similar all accept the same JSON post):
 
 1. Create a form at the service and set the destination email.

@@ -47,21 +47,17 @@ Vitrine de Dados is the original Brazilian brand; Vitridata is the international
 - **Motion:** gentle reveal on scroll and animated data flow, both disabled with `prefers-reduced-motion`.
 - **Accessibility:** skip link, visible focus rings, semantic headings, labeled form fields with live error messages, keyboard-operable menu (Esc closes).
 
-## 4. Business details to confirm before launch
+## 4. Business details
 
-These items come from the company's presentation deck or the current site. They are on the website and should be confirmed:
+Confirmed by Victor Bertoldo (2026-10-16):
 
-1. **Email `contato@vitrinededados.com`** (from the deck) is active and monitored. It is the contact form fallback and appears in the footer and privacy policy.
-2. **Founder facts:** 14+ years, data architect, graduate professor, instructor (Qlik, Dremio, dbt), 60+ trainings, speaker.
-3. **Results:** 70% (AWS → Databricks), 45% cost reduction (AWS), 80% load optimization, 100% lineage (metadata layer), 30-day MDM, 90-day integrated DW.
-4. **Technologies** listed on Expertise and Services. From the deck and architecture drawing: Databricks, Snowflake, Dremio, dbt, Qlik, AWS, Airbyte, Meltano, Airflow, Mage, PostgreSQL, Metabase, Grafana, Prometheus, OpenMetadata, Great Expectations, Elementary. From the brief only (please confirm hands-on experience): Apache Iceberg, Apache Kafka, Apache Spark, Azure, Google Cloud.
-5. **Address and hours:** Hub Cerrado, Rua do Parque 135, Goiânia; Mon–Fri 9:00–17:00 (from the current site).
+- Technologies: cloud-agnostic (AWS, Azure, Google Cloud); delivered on Snowflake, Databricks, BigQuery, Redshift, Dremio, Iceberg, Kafka, Spark and open-source stacks (Airflow + dbt + Dremio + open data catalog; in-house PostgreSQL tuned with columnar storage). Preference: Snowflake. Tooling specialty: dbt.
+- Certifications (shown on Home, About, Expertise, without credential IDs): SnowPro Advanced: Architect (2026), SnowPro Core (2025), Databricks Certified Data Engineer Associate (2025), dbt Analytics Engineering Certification (2024), AWS Certified Cloud Practitioner (2023), EXIN ISFS ISO/IEC 27001 (2017).
+- Founder name, photo and LinkedIn: not shown, by decision.
 
-Not on the site until confirmed:
+Still to do or confirm before launch:
 
-- Founder's name, photo and LinkedIn profile.
-- Company LinkedIn page.
-- Client names or logos (the deck shows some; publishing them needs permission).
-- The international partnership mentioned in the deck (US projects via partner firms).
-- Brazilian legal name and CNPJ; US entity (Vitridata LLC) details once registered.
-- A form delivery service (see README).
+1. **Create `contato@vitrinededados.com`** at GoDaddy (mailbox, alias or forward). It is the contact form destination and appears in the footer and privacy policy. Until it exists, messages sent to it bounce.
+2. Founder facts (14+ years, graduate professor, 60+ trainings) and results (70%, 45%, 80%, 100%, 30 days, 90 days) come from the company deck.
+3. Address and hours (Hub Cerrado, Goiânia; Mon–Fri 9:00–17:00) come from the current site.
+4. Optional later: a form delivery service (see README), company LinkedIn, client logos with permission, Brazilian legal name/CNPJ, US entity details once registered.
