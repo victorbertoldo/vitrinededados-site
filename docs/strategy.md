@@ -52,7 +52,8 @@ Vitrine de Dados is the original Brazilian brand; Vitridata is the international
 Confirmed by Victor Bertoldo (2026-10-16):
 
 - Technologies: cloud-agnostic (AWS, Azure, Google Cloud); delivered on Snowflake, Databricks, BigQuery, Redshift, Dremio, Iceberg, Kafka, Spark and open-source stacks (Airflow + dbt + Dremio + open data catalog; in-house PostgreSQL tuned with columnar storage). Preference: Snowflake. Tooling specialty: dbt.
-- Certifications (shown on Home, About, Expertise, without credential IDs): SnowPro Advanced: Architect (2026), SnowPro Core (2025), Databricks Certified Data Engineer Associate (2025), dbt Analytics Engineering Certification (2024), AWS Certified Cloud Practitioner (2023), EXIN ISFS ISO/IEC 27001 (2017).
+- Certifications (shown on Home, About, Expertise, without dates or credential IDs): SnowPro Advanced: Architect, SnowPro Core, Databricks Certified Data Engineer Associate, dbt Analytics Engineering Certification, AWS Certified Cloud Practitioner, EXIN ISFS ISO/IEC 27001.
+- Team: architect-led, with data engineers, analytics engineers and cloud/DevOps engineers.
 - Founder name, photo and LinkedIn: not shown, by decision.
 
 Still to do or confirm before launch:
