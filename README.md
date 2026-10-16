@@ -28,7 +28,6 @@ site/
 ├── .htaccess               HTTPS, www redirect, 404, caching (GoDaddy / Apache hosting)
 └── CNAME, .nojekyll        GitHub Pages
 scripts/check_site.py       Link, anchor, hreflang and metadata checks (runs in CI)
-docs/strategy.md            Positioning, sitemap, design system and open items
 ```
 
 | Page | English | Português |
